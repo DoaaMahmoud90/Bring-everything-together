@@ -1,0 +1,28 @@
+nav{
+  margin-bottom: 20px;
+}
+
+.container{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row{
+  margin-bottom: 5px;
+}
+
+figure{
+  width: 60%;
+}
+
+.post p{
+  margin-bottom: 2px;
+}
+
+.post h3{
+  margin-top: 10px;
+}
+
+#without-margin{
+  margin-left: 0;
+}
